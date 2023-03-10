@@ -16,6 +16,11 @@ public class Main {
         do-while:
             - similar to while-loop
             - only diff is do-while will execute atleast once but while loop is not like that
+
+        - trim() is used to remove unnecessary spaces in input
+        - charAt() is used to get character as input
          */
+
+
     }
 }
