@@ -19,6 +19,13 @@ public class Main {
 
         - trim() is used to remove unnecessary spaces in input
         - charAt() is used to get character as input
+
+        equals()
+        eg: a.equals("hello")
+
+        equals() checks only the value
+        == checks both value and the references
+
          */
 
 
